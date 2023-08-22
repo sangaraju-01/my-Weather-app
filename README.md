@@ -1,1 +1,1 @@
-# my-Wheather-app
+# my-Weather-app
